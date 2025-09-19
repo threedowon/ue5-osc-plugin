@@ -1,4 +1,4 @@
-# UE5_OSC_Plugin
+# UE5OSCPlugin
 
 Custom OSC Plugin for Unreal Engine  
 This plugin extends the functionality of the built-in **OSC (Open Sound Control)** and provides additional features for interactive media art, networking, and sensor integration.
