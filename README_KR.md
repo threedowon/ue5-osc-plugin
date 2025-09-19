@@ -17,7 +17,7 @@
 **OSC Plugin**을 활성화하면 언리얼 기본 OSC도 자동으로 활성화됩니다.
 
 ## 설치 방법
-1. [Releases](https://github.com/3dowon/ue5-osc-plugin/releases) 페이지에서 최신 버전을 다운로드합니다.  
+1. [Releases](https://github.com/threedowon/ue5-osc-plugin/releases) 페이지에서 최신 버전을 다운로드합니다.  
 2. 다운로드한 압축 파일을 해제한 뒤, 프로젝트의 **Plugins/** 폴더 안에 넣습니다.  
    - `Plugins` 폴더가 없다면 직접 생성해야 합니다.  
 3. 언리얼 프로젝트를 열면 플러그인이 자동으로 인식됩니다.  
