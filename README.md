@@ -19,7 +19,7 @@ This plugin extends the functionality of the built-in **OSC (Open Sound Control)
 When you enable **OSC Plugin**, Unreal will automatically enable the built-in **OSC (Open Sound Control)**.
 
 ## Installation
-1. Download the latest release from the [Releases](https://github.com/3dowon/ue5-osc-plugin/releases) page.  
+1. Download the latest release from the [Releases](https://github.com/threedowon/ue5-osc-plugin/releases) page.
 2. Extract the downloaded archive and place the folder into your project’s **Plugins/** directory.  
    - If the `Plugins` folder does not exist, create one manually.  
 3. Open your Unreal Engine project. The plugin will be automatically detected.
