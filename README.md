@@ -12,7 +12,7 @@ This plugin extends the functionality of the built-in **OSC (Open Sound Control)
 - Fully compatible with **Blueprints**
 
 ## System Requirements
-- Unreal Engine **5.3+** (tested on 5.3 / 5.4)
+- Unreal Engine **5.4+**
 - Built-in **OSC Engine Plugin**
 
 ⚠️ You don’t need to enable OSC manually.  
